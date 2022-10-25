@@ -20,13 +20,13 @@
 - ('my_table',)
 - ('TIMURIUS',)
 ## 3 
-`SELECT count(\*) FROM users`
+`SELECT count(*) FROM users`
 Выбрать количество элементов из таблицы users 
 
 261 пользователей
 
 ## 4 
-`SELECT count(\*) FROM grades`
+`SELECT count(*) FROM grades`
 Выбрать количество элементов из таблицы grades
 
 2 оценки
