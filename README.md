@@ -61,6 +61,24 @@ graph TD
     K --> H{СЧАСТЬЕ РАБОТА СЕМЬЯ ДЕНЬГИ}
 ```
 
+```mermaid
+graph TD
+    A[СОЧИНЕНИЕ] --> B(Основные темы)
+    B --> C1[Духовно-нравственное]
+    B --> C2[Семья, общество, Отечество]
+    B --> C3[Природа и культура] 
+    C1 --> Crime[Преступление и наказание]
+    C2 --> Crime
+    C1 --> Oblomov[Обломов]
+    C1 --> Stena[Стена, Сартр]
+    C1 --> Palata[Палата N6]
+    C2 --> Palata
+    C3 --> Palata
+```
+
+![mermaid-diagram-2022-12-06-090548](https://user-images.githubusercontent.com/114469279/205844130-99b1e312-296c-4f19-abd4-adf6d06baf4d.png)
+
+
 ## Навигация
 
 [Формулы в Latex'е](https://github.com/TheStrangeMatter/for_lyceum/blob/main/latex.md)
