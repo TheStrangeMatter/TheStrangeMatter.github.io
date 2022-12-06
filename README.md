@@ -26,7 +26,8 @@
 </a>
 
 
-```flowchart LR
+```mermaid
+flowchart LR
     A[Hard] -->|Text| B(Round)
     B --> C{Decision}
     C -->|One| D[Result 1]
