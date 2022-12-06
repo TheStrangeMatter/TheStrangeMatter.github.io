@@ -2,6 +2,31 @@
 
 Это репозиторий **Медведевой Анастасии** из **051 группы**!
 
+<style>
+.button_1670306522013 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    border: 3px solid #190015 !important;
+    border-radius: 5px !important;
+    font-size: 60px !important;
+    padding: 15px 50px !important; 
+    transition: all 0.2s ease !important;
+}
+.button_1670306522013:hover{
+    text-decoration: none !important; 
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border-color: #4cbdea !important;
+}
+</style>
+<a href="https://github.com/TheStrangeMatter" class="button_1670306522013" target="_blank">
+  МОЙ GITHUB!!!
+</a>
+
+
+
 ## Навигация
 
 [Формулы в Latex'е](https://github.com/TheStrangeMatter/for_lyceum/blob/main/latex.md)
