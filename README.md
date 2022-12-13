@@ -1,5 +1,7 @@
 # for_lyceum
 
+![kgc6k](https://user-images.githubusercontent.com/114469279/207238600-fdf6d007-feca-48a4-9840-f5ed821477ef.gif)
+
 Это репозиторий **Медведевой Анастасии** из **051 группы**!
 
 <style>
